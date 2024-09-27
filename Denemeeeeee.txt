@@ -1,0 +1,2 @@
+print("ben patates severim. patates adam yaşasın.");
+print("maklube")
