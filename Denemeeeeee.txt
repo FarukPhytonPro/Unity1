@@ -1,2 +1,1 @@
-print("ben patates severim. patates adam yaşasın.");
-print("maklube")
+print("bir zamanlar emanuel ve samuel vardı.");
